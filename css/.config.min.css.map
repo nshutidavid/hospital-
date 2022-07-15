@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAC,CACA,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,IAAI,CAChB,eAAe,CAAE,IAAI,CACrB,UAAU,CAAE,UAAU,CACvB,AAaD,AAAA,IAAI,AAAC,CACH,UAAU,CAZI,OAAO,CAatB",
+    "sources": [
+        "../partials/.config.scss"
+    ],
+    "names": [],
+    "file": ".config.min.css"
+}
